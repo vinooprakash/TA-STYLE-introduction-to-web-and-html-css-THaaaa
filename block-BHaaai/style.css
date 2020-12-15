@@ -1,0 +1,21 @@
+body{
+    background-color: #22396A;
+    font-family: 'Roboto', sans-serif;
+    line-height: 30px;
+}
+
+.bodycontent{
+    color: white;
+}
+
+.resumeheader{
+    color: #31BA66;
+}
+
+#socialconnect{
+    color: red;
+}
+
+.image{
+    text-align: center;
+}
